@@ -34,12 +34,12 @@ Manchester United football club wants to know which player they should sign for 
 - **Check the number of players with ages less than and greater than 25 years.**
    -  **Observation:** Six players with ages less than 25 years
   
-![image](https://raw.githubusercontent.com/AyishaRana/football-players-data-analysis-python/refs/heads/main/age%20count.png)
+![image](https://raw.githubusercontent.com/AyishaRana/football-players-analysis-python/refs/heads/main/Outputs/age%20count.png)
 
 - **Check the number of players played in the English premier league.**
   - **Observation:** Three players have played in the English premier league
 
-![image](https://raw.githubusercontent.com/AyishaRana/football-players-data-analysis-python/refs/heads/main/english%20premier%20league.png)
+![image](https://raw.githubusercontent.com/AyishaRana/football-players-analysis-python/refs/heads/main/Outputs/english%20premier%20league.png)
 
 - **Check the total number of goals & assists scored by each player**
    - **Observation:**
@@ -47,7 +47,7 @@ Manchester United football club wants to know which player they should sign for 
       - Randal Kolo Muani is at the top for assists.
       - Six players with goal contributions of more than 20.
     
-![image](https://raw.githubusercontent.com/AyishaRana/football-players-data-analysis-python/refs/heads/main/total%20contribution.png)
+![image](https://raw.githubusercontent.com/AyishaRana/football-players-analysis-python/refs/heads/main/Outputs/total%20contribution.png)
    
 - **Check the average no. of Shots, PS%, AerialsWon & Ratings per match by each player**
    - **Observation:** Top players based on, 
@@ -56,17 +56,17 @@ Manchester United football club wants to know which player they should sign for 
       - Avg.  AerialsWon per match – Mitrovic, Toney
       - Avg. Rating – Multiple players
 
-![image](https://raw.githubusercontent.com/AyishaRana/football-players-data-analysis-python/refs/heads/main/avg%20ratings.png)
+![image](https://raw.githubusercontent.com/AyishaRana/football-players-analysis-python/refs/heads/main/Outputs/avg%20ratings.png)
 
 - **Check the Mean, Median & Mode Ratings per match by each player**
    - **Observation:**
       - Not much difference between the players
 
-![image](https://raw.githubusercontent.com/AyishaRana/football-players-data-analysis-python/refs/heads/main/mean%20median%20mode.png)
+![image](https://raw.githubusercontent.com/AyishaRana/football-players-analysis-python/refs/heads/main/Outputs/mean%20median%20mode.png)
 
 - **Check Variance & Std. Deviation for each player to find the player whose ratings vary the least**
    - **Observation:**
       - If the standard deviation is high, this means that values are typically a long way from the mean. If the standard deviation is low, values tend to be close to the mean
       - **Harry Kane** & **Dusan Vlahovic** are the players which Manchester United should target. Both players satisfy the criteria.
 
-![image](https://raw.githubusercontent.com/AyishaRana/football-players-data-analysis-python/refs/heads/main/variance%20std-dev.png)
+![image](https://raw.githubusercontent.com/AyishaRana/football-players-analysis-python/refs/heads/main/Outputs/variance%20std-dev.png)
